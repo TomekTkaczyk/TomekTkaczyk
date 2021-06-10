@@ -6,8 +6,12 @@ Poniżej kilka projektów, które pokazują moją ścieżkę nauki i nabyte umie
 Szukam również Mentora, który pomoże mi doskonalić to co już umiem i zdobyć nowe kompetencje,  wzamian oferując zapał i zaangażowanie.
 
 ### Obecnie uczę się:
+* .NET Core
+* HTML/CSS
 
 ### Moje narzędzia programistyczne
+* VisualStudio2019
+* VS Code
 
 ### Kontakt:
 
