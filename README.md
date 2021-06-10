@@ -8,6 +8,8 @@ Szukam również Mentora, który pomoże mi doskonalić to co już umiem i zdoby
 
 ### Obecnie uczę się:
 ---
+![]csharp_original_logo_icon_146578.png
+
 
 ### Moje narzędzia programistyczne
 * VisualStudio2019
