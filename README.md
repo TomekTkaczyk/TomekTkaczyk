@@ -12,7 +12,7 @@ Szukam również Mentora, który pomoże mi doskonalić to co już umiem i zdoby
 
 Dodatkowo
 
-![](html_plain_wordmark_logo_icon_146476.png)
+![](html_original_wordmark_logo_icon_146478.png)
 ![](css_original_wordmark_logo_icon_146576.png)
 ![](bootstrap_plain_wordmark_logo_icon_146620.png)
 
