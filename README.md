@@ -9,14 +9,24 @@ Szukam również Mentora, który pomoże mi doskonalić to co już umiem i zdoby
 ### Obecnie uczę się:
 ---
 ![](csharp_original_logo_icon_146578.png)
+![](PngItem_335825.png)
+
+Dodatkowo
+
+![](html_plain_wordmark_logo_icon_146476.png)
+![](css_original_wordmark_logo_icon_146576.png)
+![](bootstrap_plain_wordmark_logo_icon_146620.png)
 
 
-### Moje narzędzia programistyczne
-* VisualStudio2019
-* VS Code
+### Mój stack programistyczny
+![](Visual_Studio_icon-icons.com_56597.png)
+![](PngItem_1973343.png)
+![](mysql_original_wordmark_logo_icon_146417.png)
+![](git_plain_wordmark_logo_icon_146508.png)
+![](github_original_wordmark_logo_icon_146506.png)
+![](chrome_original_wordmark_logo_icon_146601.png)
 
 ### Kontakt:
 ---
 📫 tomasz.tkaczyk@unipromax.pl
-
 
