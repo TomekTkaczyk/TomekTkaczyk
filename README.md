@@ -9,7 +9,7 @@ Szukam również Mentora, który pomoże mi doskonalić to co już umiem i zdoby
 ### Obecnie uczę się:
 ---
 ![](resource/csharp_original_logo_icon_146578.png)
-![](pngegg.png)
+![](resource/pngegg.png)
 ![](resource/file_type_rest_icon_130196.png)
 
 Dodatkowo
