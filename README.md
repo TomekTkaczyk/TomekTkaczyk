@@ -19,7 +19,7 @@ Dodatkowo
 ![](resource/bootstrap_plain_wordmark_logo_icon_146620.png)
 
 
-### Mój stack programistyczny
+### Moje narzędzia programistyczne
 ---
 ![](resource/Visual_Studio_icon-icons.com_56597.png)
 ![](resource/sql_racer_gamedatabase_sql_1526.png)
